@@ -5,11 +5,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Engineer, passionate about writing code, building software, hacking projects together and research.\
-🎓 &nbsp;I am a senior student-athlete at Claflin University Studying Computer Enginering.\
-🌱 &nbsp;I love getting in uncomfortable situation where I'll have to result in hacking/researching my way through.\
+🎓 &nbsp;I am a an MBA student at Indiana Institute of Technology.\
+🌱 &nbsp;I love getting into uncomfortable situations where I have to hack/research my way through.\
 ✍️ &nbsp;In my free time, I play the ukele, rollerskate, hike, swim and read books.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion\
-✉️ &nbsp;You can shoot me an email at mmeli.chukwunwike! I'll try to respond as soon as I can.
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at estherburnett23@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -32,4 +32,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-chukwunwike/
+### 🤝🏻 &nbsp;Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-burnett/
